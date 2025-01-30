@@ -252,7 +252,6 @@ payload:
   - DOMAIN-SUFFIX,e621.net
   - DOMAIN-SUFFIX,echofm.online
   - DOMAIN-SUFFIX,edge-mqtt.facebook.com
-  - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,edgeservices.bing.com
   - DOMAIN-SUFFIX,edu-cisco.org
   - DOMAIN-SUFFIX,eggertspiele.de
@@ -519,7 +518,6 @@ payload:
   - DOMAIN-SUFFIX,metla.press
   - DOMAIN-SUFFIX,mignews.com
   - DOMAIN-SUFFIX,mixcloud.com
-  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,monoprice.com
   - DOMAIN-SUFFIX,monster.ie
