@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,artifacts.elastic.co
   - DOMAIN-SUFFIX,as6723.net
   - DOMAIN-SUFFIX,assets.heroku.com
+  - DOMAIN-SUFFIX,assets.streamplay.streamamg.com
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,atn.ua
   - DOMAIN-SUFFIX,att.com
@@ -136,16 +137,20 @@ payload:
   - DOMAIN-SUFFIX,cats.com
   - DOMAIN-SUFFIX,cbilling.eu
   - DOMAIN-SUFFIX,cbilling.vip
+  - DOMAIN-SUFFIX,cdn.7tv.app
   - DOMAIN-SUFFIX,cdn.fbsbx.com
   - DOMAIN-SUFFIX,cdn.id.supercell.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.nba.com
   - DOMAIN-SUFFIX,cdn.oaistatic.com
   - DOMAIN-SUFFIX,cdn.web-platform.io
   - DOMAIN-SUFFIX,cdnbunny.org
   - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,cdnjs.cloudflare.com
   - DOMAIN-SUFFIX,cdw.com
   - DOMAIN-SUFFIX,censortracker.org
   - DOMAIN-SUFFIX,certifytheweb.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkout.buckaroo.nl
   - DOMAIN-SUFFIX,cherta.media
@@ -419,6 +424,7 @@ payload:
   - DOMAIN-SUFFIX,intuitibits.com
   - DOMAIN-SUFFIX,ionos.com
   - DOMAIN-SUFFIX,iptv.online
+  - DOMAIN-SUFFIX,ipv4only.arpa
   - DOMAIN-SUFFIX,is.fi
   - DOMAIN-SUFFIX,island-of-pleasure.site
   - DOMAIN-SUFFIX,istories.media
@@ -597,6 +603,7 @@ payload:
   - DOMAIN-SUFFIX,ovd.news
   - DOMAIN-SUFFIX,ovdinfo.org
   - DOMAIN-SUFFIX,ozi-ru.org
+  - DOMAIN-SUFFIX,p.vidembed.re
   - DOMAIN-SUFFIX,packages.gitlab.com
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pandasecurity.com
@@ -637,6 +644,7 @@ payload:
   - DOMAIN-SUFFIX,portal.lviv.ua
   - DOMAIN-SUFFIX,posle.media
   - DOMAIN-SUFFIX,postimees.ee
+  - DOMAIN-SUFFIX,ppv.land
   - DOMAIN-SUFFIX,pravda.com
   - DOMAIN-SUFFIX,premierleague.com
   - DOMAIN-SUFFIX,primevideo.com
@@ -798,6 +806,7 @@ payload:
   - DOMAIN-SUFFIX,st.kinovod.net
   - DOMAIN-SUFFIX,star-mini.c10r.facebook.com
   - DOMAIN-SUFFIX,starget.intel.com
+  - DOMAIN-SUFFIX,static-cdn.jtvnw.net
   - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com
   - DOMAIN-SUFFIX,static.cdninstagram.com
   - DOMAIN-SUFFIX,static.files.bbci.co.uk
@@ -961,6 +970,7 @@ payload:
   - DOMAIN-SUFFIX,windows10spotlight.com
   - DOMAIN-SUFFIX,wixmp.com
   - DOMAIN-SUFFIX,wpengine.com
+  - DOMAIN-SUFFIX,ws.fscdn.fun
   - DOMAIN-SUFFIX,wunderground.com
   - DOMAIN-SUFFIX,www.agents.media
   - DOMAIN-SUFFIX,www.analog.com
@@ -1067,4 +1077,3 @@ payload:
   - DOMAIN-SUFFIX,znanija.com
   - DOMAIN-SUFFIX,zohomail.com
   - DOMAIN-SUFFIX,zona.media
-  - DOMAIN-SUFFIX,ppv.land
