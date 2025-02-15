@@ -150,7 +150,6 @@ payload:
   - DOMAIN-SUFFIX,cdw.com
   - DOMAIN-SUFFIX,censortracker.org
   - DOMAIN-SUFFIX,certifytheweb.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkout.buckaroo.nl
   - DOMAIN-SUFFIX,cherta.media
@@ -169,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,cnd2exp.online
   - DOMAIN-SUFFIX,cock.li
+  - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coingate.com
   - DOMAIN-SUFFIX,coinpayments.net
@@ -302,6 +302,7 @@ payload:
   - DOMAIN-SUFFIX,flukenetworks.com
   - DOMAIN-SUFFIX,fn-volga.ru
   - DOMAIN-SUFFIX,fonge.org
+  - DOMAIN-SUFFIX,fonts.bunny.net
   - DOMAIN-SUFFIX,footballapi.pulselive.com
   - DOMAIN-SUFFIX,force-user-content.com
   - DOMAIN-SUFFIX,force.com
@@ -389,6 +390,7 @@ payload:
   - DOMAIN-SUFFIX,htmhell.dev
   - DOMAIN-SUFFIX,hyperhost.ua
   - DOMAIN-SUFFIX,i-fallback.instagram.com
+  - DOMAIN-SUFFIX,i.imgur.com
   - DOMAIN-SUFFIX,i.instagram.com
   - DOMAIN-SUFFIX,i.sakh.com
   - DOMAIN-SUFFIX,i.ytimg.com
@@ -424,7 +426,6 @@ payload:
   - DOMAIN-SUFFIX,intuitibits.com
   - DOMAIN-SUFFIX,ionos.com
   - DOMAIN-SUFFIX,iptv.online
-  - DOMAIN-SUFFIX,ipv4only.arpa
   - DOMAIN-SUFFIX,is.fi
   - DOMAIN-SUFFIX,island-of-pleasure.site
   - DOMAIN-SUFFIX,istories.media
@@ -727,6 +728,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.ru
   - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,s3-1.amazonaws.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,sakhalin.info
   - DOMAIN-SUFFIX,sakharovfoundation.org
   - DOMAIN-SUFFIX,salesforce-experience.com
@@ -803,7 +805,9 @@ payload:
   - DOMAIN-SUFFIX,sputnikipogrom.com
   - DOMAIN-SUFFIX,squadbustersgame.com
   - DOMAIN-SUFFIX,squareup.com
+  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
   - DOMAIN-SUFFIX,st.kinovod.net
+  - DOMAIN-SUFFIX,stacked.b-cdn.net
   - DOMAIN-SUFFIX,star-mini.c10r.facebook.com
   - DOMAIN-SUFFIX,starget.intel.com
   - DOMAIN-SUFFIX,static-cdn.jtvnw.net
