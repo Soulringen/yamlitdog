@@ -85,7 +85,6 @@ payload:
   - DOMAIN-SUFFIX,artifacts.elastic.co
   - DOMAIN-SUFFIX,as6723.net
   - DOMAIN-SUFFIX,assets.heroku.com
-  - DOMAIN-SUFFIX,assets.streamplay.streamamg.com
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,atn.ua
   - DOMAIN-SUFFIX,att.com
@@ -137,16 +136,13 @@ payload:
   - DOMAIN-SUFFIX,cats.com
   - DOMAIN-SUFFIX,cbilling.eu
   - DOMAIN-SUFFIX,cbilling.vip
-  - DOMAIN-SUFFIX,cdn.7tv.app
   - DOMAIN-SUFFIX,cdn.fbsbx.com
   - DOMAIN-SUFFIX,cdn.id.supercell.com
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.nba.com
   - DOMAIN-SUFFIX,cdn.oaistatic.com
   - DOMAIN-SUFFIX,cdn.web-platform.io
   - DOMAIN-SUFFIX,cdnbunny.org
   - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,cdnjs.cloudflare.com
   - DOMAIN-SUFFIX,cdw.com
   - DOMAIN-SUFFIX,censortracker.org
   - DOMAIN-SUFFIX,certifytheweb.com
@@ -168,7 +164,6 @@ payload:
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,cnd2exp.online
   - DOMAIN-SUFFIX,cock.li
-  - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coingate.com
   - DOMAIN-SUFFIX,coinpayments.net
@@ -302,7 +297,6 @@ payload:
   - DOMAIN-SUFFIX,flukenetworks.com
   - DOMAIN-SUFFIX,fn-volga.ru
   - DOMAIN-SUFFIX,fonge.org
-  - DOMAIN-SUFFIX,fonts.bunny.net
   - DOMAIN-SUFFIX,footballapi.pulselive.com
   - DOMAIN-SUFFIX,force-user-content.com
   - DOMAIN-SUFFIX,force.com
@@ -390,7 +384,6 @@ payload:
   - DOMAIN-SUFFIX,htmhell.dev
   - DOMAIN-SUFFIX,hyperhost.ua
   - DOMAIN-SUFFIX,i-fallback.instagram.com
-  - DOMAIN-SUFFIX,i.imgur.com
   - DOMAIN-SUFFIX,i.instagram.com
   - DOMAIN-SUFFIX,i.sakh.com
   - DOMAIN-SUFFIX,i.ytimg.com
@@ -604,7 +597,6 @@ payload:
   - DOMAIN-SUFFIX,ovd.news
   - DOMAIN-SUFFIX,ovdinfo.org
   - DOMAIN-SUFFIX,ozi-ru.org
-  - DOMAIN-SUFFIX,p.vidembed.re
   - DOMAIN-SUFFIX,packages.gitlab.com
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pandasecurity.com
@@ -645,7 +637,6 @@ payload:
   - DOMAIN-SUFFIX,portal.lviv.ua
   - DOMAIN-SUFFIX,posle.media
   - DOMAIN-SUFFIX,postimees.ee
-  - DOMAIN-SUFFIX,ppv.land
   - DOMAIN-SUFFIX,pravda.com
   - DOMAIN-SUFFIX,premierleague.com
   - DOMAIN-SUFFIX,primevideo.com
@@ -728,7 +719,6 @@ payload:
   - DOMAIN-SUFFIX,rutracker.ru
   - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,s3-1.amazonaws.com
-  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,sakhalin.info
   - DOMAIN-SUFFIX,sakharovfoundation.org
   - DOMAIN-SUFFIX,salesforce-experience.com
@@ -805,12 +795,9 @@ payload:
   - DOMAIN-SUFFIX,sputnikipogrom.com
   - DOMAIN-SUFFIX,squadbustersgame.com
   - DOMAIN-SUFFIX,squareup.com
-  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
   - DOMAIN-SUFFIX,st.kinovod.net
-  - DOMAIN-SUFFIX,stacked.b-cdn.net
   - DOMAIN-SUFFIX,star-mini.c10r.facebook.com
   - DOMAIN-SUFFIX,starget.intel.com
-  - DOMAIN-SUFFIX,static-cdn.jtvnw.net
   - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com
   - DOMAIN-SUFFIX,static.cdninstagram.com
   - DOMAIN-SUFFIX,static.files.bbci.co.uk
@@ -974,7 +961,6 @@ payload:
   - DOMAIN-SUFFIX,windows10spotlight.com
   - DOMAIN-SUFFIX,wixmp.com
   - DOMAIN-SUFFIX,wpengine.com
-  - DOMAIN-SUFFIX,ws.fscdn.fun
   - DOMAIN-SUFFIX,wunderground.com
   - DOMAIN-SUFFIX,www.agents.media
   - DOMAIN-SUFFIX,www.analog.com
